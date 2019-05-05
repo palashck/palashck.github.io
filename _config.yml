@@ -1,0 +1,51 @@
+title: Palash Khandekar
+description: My Data Science Portfolio
+author: Palash Khandekar
+email: palash.k06@gmail.com
+phone: (469) 369-2332
+github: https://github.com/palashck
+about: I am an enthusiastic learner with problem-solving skills and passionate about learning new technologies and implementing them.
+disqus_shortname: programming
+#google_analytics: UA-31048387-6
+avatar_url: /static/img/me.jpeg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/palashkhandekar/"
+    - icon: fa-medium
+      link: "https://medium.com/@palashkhandekar"
+    - icon: fa-github
+      link: "https://github.com/palashck"
+
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: Projects
+      url: /projects/
+    - text: Blogs
+      url: /blogs/
+    
+# url: "http://localhost:4000"
+url: "https://palashck.github.io/"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/blogs/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all

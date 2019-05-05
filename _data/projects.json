@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Data Vizualization - Google Trends Data",
+		"description": "Some cool vizualization of google trends of Kardashian family.",
+		"image": "googletrends.png",
+		"url": "https://github.com/palashck/Data-Viz-Python",
+		"date": "Feb 2019",
+		"tags": ["Python", "Data Vizualization"]
+	},
+	{
+		"name": "Prediction of Absenteeism at Work using Python and SQL",
+		"image": "absent.jpg",
+		"url": "https://github.com/palashck/Python-SQL-Tableau",
+		"date": "Mar 2019",
+		"description": "Integrated Python and SQL using pymysql library.",
+		"tags": ["Python","SQL", "Tableau"]
+	},
+	{
+		"name": "Estimating Avocado Sales",
+		"description": "Data Anlaysis of Sales of Avocado across US and estimating prediction.",
+		"image": "avocado.jpg",
+		"url": "https://github.com/palashck/Estimating-Avocado-Sales",
+		"date": "Jan 2019",
+		"tags": ["R","Data Vizualization"]
+	},
+	{
+		"name": "Healthcare Data Analysis",
+		"description": "Data Mining and Analysis of Healthcare data ",
+		"image": "healthcare.jpg",
+		"date": "Nov 2018",
+		"url": "https://github.com/palashck/Healthcare-Data-Analysis",
+		"tags": ["R"]
+	}
+]
