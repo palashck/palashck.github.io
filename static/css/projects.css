@@ -1,7 +1,9 @@
 /* Project Elements */
-.responsive-projects{
-  display: flex;
-  flex-direction: column;
+@media (max-width: 768px) {
+  .responsive-projects{
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 .project-outer {
